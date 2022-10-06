@@ -32,7 +32,28 @@ Ser operacional é bom mas para as organizações procuram mais visão estratég
 * Usar o titulo Analista de Testes e Qualidade de Software (QA)
 * Sabe programar em Java 
 * Conhece métodos ágeis
-* Sabe testar APIs Rest
+* Saber testar APIs Rest
 * Ser capaz de se comunicar em inglês
-* Possui graduação
-* Possui certificação em testes de software
+* Possuir graduação
+* Possuir certificação em testes de software
+
+# Aula 2
+### Configurações do Linkedin
+* Utilizar palavras chaves que interessem aos recrutadores
+* Conectar com pessoas que possuem contato com as empresas que você se interessa
+* Iteris, Qintess, Made in web, Keegoo, MV sistemas, NTT Data, GFT, Algartech,  Wipro, Accenture, Cast Group, TCS, Globant, IBM, Microsoft, Softtek, Sonda, 
+* Alguns dos termos de pessoas a se conectar: Gestao de talentos, RH, Tech Recruiter, recrutador
+* Atualizar sobre contando coisas que tem relação com testes de software
+* Adicionar itens nas experiências que tenha relação com teste de software
+* Adicionar comentarios em posts interessantes, ao invés de “retuitar”
+
+# Aula 3
+### Testes na camada mais requerida do mercado (API)
+
+Api é um sistema com funcionalidade sem interface de usuário, um app ou um site (UI Interface de Usuário) conecta-se a uma API através de uma Requisição para obter ou enviar informações.
+REST é um paradigma e uma padronização de sistemas API, uma API é RESTFUL quando segue completamente esta padronização.
+
+Uma API rest precisa ser independente, e funcionar sem a necessidade de um terceiro ou uma informação prévia. Cada requisição deve ser limpa e independente, sem necessidade da API ter que se lembrar de requisições anteriores. Isso significa robustez nas respostas e organização.
+
+Para se comunicar com uma API rest a aplicação deve utilizar um método e um caminho.
+As APIs devem ser documentadas de forma que os usuários possam usar de forma correta e fáceis. Um sistema de organização de Documentos da API é o Swagger
