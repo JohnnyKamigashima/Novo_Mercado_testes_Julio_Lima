@@ -1,4 +1,3 @@
-# Novo_Mercado_testes_Julio_Lima
 # O Novo Mercado de testes de Software - Julio de Lima
 
 # Aula 1
